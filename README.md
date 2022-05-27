@@ -26,7 +26,7 @@ supporters есть внешний ключ, который ссылается �
 * юр.лица из *msp_entities_sschr*, которые есть в entities. **msp_ent_with_support**
 * физ.лица из *msp_individuals_sschr*, которые есть в individuals. **msp_ind_with_support**
 * юр лица из *msp_entitites_sschr*, которых нет в entities. **msp_ent_without_support**
-* физ.лица из *msp_individuals_sschr*, которых нет в individuals. **msp_ind_without_support**
+* физ.лица из *msp_individuals_sschr*, которых нет в individuals. **msp_ind_without_support**  
 С помощью JOIN и LEFT JOIN.
 
 ### example.xml и msp_example.xml
