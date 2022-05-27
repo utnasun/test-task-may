@@ -28,6 +28,12 @@ supporters есть внешний ключ, который ссылается �
 * юр лица из *msp_entitites_sschr*, которых нет в entities. **msp_ent_without_support**
 * физ.лица из *msp_individuals_sschr*, которых нет в individuals. **msp_ind_without_support**
 С помощью JOIN и LEFT JOIN.
+
+### example.xml и msp_example.xml
+
+----
+
+Пример файлов, которые парсились в main.py и msp.py соответственно.
 # Схема базы данных:
 [Дамп БД](https://drive.google.com/file/d/1Th-6lEq54m4DrihDCCSvf3BhZo0j1P6c/view?usp=sharing)
 ![image](db_scheme.png)
